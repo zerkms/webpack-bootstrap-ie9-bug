@@ -1,2 +1,2 @@
-require('bootstrap/dist/css/bootstrap.css');
+require('./app.css');
 require('./style.css');
